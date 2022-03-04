@@ -2,11 +2,9 @@
 
 Final project for the course "Data Spaces" @Politecnico di Torino.
 
-*Main algorithms and techniques:* k-NN, Logistic Regression, SVM (linear and rbf kernel), Decision Tree, Random Forest, PCA.
-<br>
-*Evaluation metrics:* Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC Curve, AUC, Learning Curve, Decision Boundaries.
-<br>
-*Programming language and main libraries:* Python, Scikit-learn.
+* *Main algorithms and techniques:* k-NN, Logistic Regression, SVM (linear and rbf kernel), Decision Tree, Random Forest, PCA.
+* *Evaluation metrics:* Accuracy, Precision, Recall, F1-score, Confusion Matrix, ROC Curve, AUC, Learning Curve, Decision Boundaries.
+* *Programming language and main libraries:* Python, Scikit-learn.
 
 ### Abstract
 
